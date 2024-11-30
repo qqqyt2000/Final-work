@@ -1,18 +1,18 @@
-# Game Introduction
+# 😊 Game Introduction 
 * This game is created by QiuYuitng,GuoJianing and Guanyuan from IME in PolyU.
 * The *innovation* of the game is that one of the characters can move by controlling the volume of the human voice and compete with another character controlled by the keyboard.
 * The following link is our development log, welcome to read it.
 (https://padlet.com/guanyuan0704/voice-shadow-2nr2w6q0cf0b3aa9)
 * The following document is our planning copy, you are welcome to read it.(Background Story included)
 [Game Design Document——Voice Shadow.docx](https://github.com/user-attachments/files/17964126/Game.Design.Document.Voice.Shadow.docx)
-* If you don’t want to clone the source code, you only need to click this link, download compressed package and run the VoiceShdow.exe file in it to play:
-  https://box.nju.edu.cn/f/628b52f74c794e92b697/?dl=1
+* _ONLY FOR WINDOWS_ If you don’t want to clone the source code, you only need to click this link, download compressed package and run the VoiceShdow.exe in it to play:
+  [download link](https://box.nju.edu.cn/f/29e5c38dc63c495b98b6/?dl=1)
 
 
-# GameBackground
+# 😊 GameBackground 
 In a distant medieval era, an ancient and mysterious kingdom towering majesty, with a dark and profound atmosphere, and strict hierarchy. The princess who is tired of the confines of palace life, longs to break free from feudal shackles, escape from the palace and seek freedom and true love. A warrior, once touched by the princess's kindness, steps forward to help her. However, the kingdom's guard, a cold and selfless commander loyal only to duty, controls a loyal troop, vowing to stop the princess and the warrior's plan to maintain the kingdom's authority. In this battle of "Voice and Shadow," the duel between the warrior and the guard will decide the princess's fate.
 
-# How to play 'Voice Shadow' ?
+# 😊 How to play 'Voice Shadow' ?
 
 1. Run the VoiceShadow_Main.py program, and the following interface appears:
    
