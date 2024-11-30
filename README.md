@@ -1,4 +1,4 @@
-# How to play 'Voice Shadow' ?
+# Game Introduction
 * This game is created by QiuYuitng,GuoJianing and Guanyuan from IME in PolyU.
 * The *innovation* of the game is that one of the characters can move by controlling the volume of the human voice and compete with another character controlled by the keyboard.
 * The following link is our development log, welcome to read it.
@@ -6,6 +6,11 @@
 * The following document is our planning copy, you are welcome to read it.(Background Story included)
 [Game Design Document——Voice Shadow.docx](https://github.com/user-attachments/files/17964126/Game.Design.Document.Voice.Shadow.docx)
 * You are welcome to download the installation package and run it, if you do not want to clone the code：
+
+# GameBackground
+In a distant medieval era, an ancient and mysterious kingdom towering majesty, with a dark and profound atmosphere, and strict hierarchy. The princess who is tired of the confines of palace life, longs to break free from feudal shackles, escape from the palace and seek freedom and true love. A warrior, once touched by the princess's kindness, steps forward to help her. However, the kingdom's guard, a cold and selfless commander loyal only to duty, controls a loyal troop, vowing to stop the princess and the warrior's plan to maintain the kingdom's authority. In this battle of "Voice and Shadow," the duel between the warrior and the guard will decide the princess's fate.
+
+# How to play 'Voice Shadow' ?
 
 1. Run the VoiceShadow_Main.py program, and the following interface appears:
    
