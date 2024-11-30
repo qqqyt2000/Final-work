@@ -5,7 +5,9 @@
 (https://padlet.com/guanyuan0704/voice-shadow-2nr2w6q0cf0b3aa9)
 * The following document is our planning copy, you are welcome to read it.(Background Story included)
 [Game Design Document——Voice Shadow.docx](https://github.com/user-attachments/files/17964126/Game.Design.Document.Voice.Shadow.docx)
-* You are welcome to download the installation package and run it, if you do not want to clone the code：
+* If you don’t want to clone the source code, you only need to click this link, download compressed package and run the VoiceShdow.exe file in it to play:
+  https://box.nju.edu.cn/f/628b52f74c794e92b697/?dl=1
+
 
 # GameBackground
 In a distant medieval era, an ancient and mysterious kingdom towering majesty, with a dark and profound atmosphere, and strict hierarchy. The princess who is tired of the confines of palace life, longs to break free from feudal shackles, escape from the palace and seek freedom and true love. A warrior, once touched by the princess's kindness, steps forward to help her. However, the kingdom's guard, a cold and selfless commander loyal only to duty, controls a loyal troop, vowing to stop the princess and the warrior's plan to maintain the kingdom's authority. In this battle of "Voice and Shadow," the duel between the warrior and the guard will decide the princess's fate.
