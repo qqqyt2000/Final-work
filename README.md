@@ -1,5 +1,11 @@
 # How to play 'Voice Shadow' ?
-This game is created by QiuYuitng,GuoJianing and Guanyuan from IME in PolyU.
+* This game is created by QiuYuitng,GuoJianing and Guanyuan from IME in PolyU.
+* The *innovation* of the game is that one of the characters can move by controlling the volume of the human voice and compete with another character controlled by the keyboard.
+* The following link is our development log, welcome to read it.
+(https://padlet.com/guanyuan0704/voice-shadow-2nr2w6q0cf0b3aa9)
+* The following document is our planning copy, you are welcome to read it.(Background Story included)
+[Game Design Document——Voice Shadow.docx](https://github.com/user-attachments/files/17964126/Game.Design.Document.Voice.Shadow.docx)
+* You are welcome to download the installation package and run it, if you do not want to clone the code：
 
 1. Run the VoiceShadow_Main.py program, and the following interface appears:
    
